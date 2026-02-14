@@ -7,11 +7,11 @@ This project is part of Prodigy Infotech’s Data Science Internship – Task 1.
 The objective of this task is to visualize the distribution of a continuous variable using a histogram and compare categorical data using bar charts.
 The dataset used is the World Bank – World Development Indicators (WDI) dataset containing total population records from 1960 to 2024.
 # Objectives
-✔ Load and preprocess a real-world dataset
-✔ Clean and convert population data into numeric format
-✔ Create a Histogram to visualize overall population distribution
-✔ Create Bar Charts to compare Top 10 Most Populated Countries
-✔ Analyze population trends across different years
+* Load and preprocess a real-world dataset
+* Clean and convert population data into numeric format
+* Create a Histogram to visualize overall population distribution
+* Create Bar Charts to compare Top 10 Most Populated Countries
+* Analyze population trends across different years
 # Dataset Information
 Source: World Bank – World Development Indicators
 Indicator Name: Population, total
